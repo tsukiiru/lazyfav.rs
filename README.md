@@ -1,3 +1,7 @@
+### okay what the fuck? this now requires Spotify ✨ Premium ✨ to work (to be able to even ACCESS the web api)
+<img width="1264" height="86" alt="image" src="https://github.com/user-attachments/assets/c80f4049-29a0-48cf-b2b8-3d353fccb990" />
+im sincerely sorry because you don't have premium and now there's no way you can automate this process anymore :pray:
+
 # lazyfav.rs
 <sub>an amazing tool to quickly add the currently playing spotify track into your favourite list!! (without having to open spotify :shock:)</sub>  
 
